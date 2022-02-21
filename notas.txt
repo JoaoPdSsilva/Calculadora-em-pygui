@@ -1,0 +1,8 @@
+1. Criar uma Calculadora
+
+2. Criar uma GUI para a Calculadora
+
+3. Caso eu queira melhorar transformar em uma calculadora cientifica e criar um executavel da Calculadora.
+
+Site que me ajudou na criação desse projeto
+https://www.studytonight.com/tkinter/calculator-application-using-tkinter
